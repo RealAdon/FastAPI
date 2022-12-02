@@ -1,3 +1,6 @@
 fastapi-venv
 __pycache__
 utils
+database.db
+secret_key
+secret_key.txt
